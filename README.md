@@ -10,7 +10,7 @@
 3. Train the model. We provide the experiment scripts of all benchmarks under the folder `./scripts`. 
 4. You can use bash commands to individually run scripts in the 'scripts' folder from the command line to obtain results for individual datasets, for example, you can use the below command line to obtain the multivariate forecasting result of  **input-96-predict-96** on ETTh1:
    
-  ```bash ./scripts/96/ETTh1.sh ```
+      ```bash ./scripts/96/ETTh1.sh ```
 
 You can find:
 
