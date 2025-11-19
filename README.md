@@ -1,7 +1,7 @@
 <div align="center">
   <h2><b> Code for Paper:</b></h2>
   <h2><b> 	
-Bridging the Spectrum Gap: Mid‑Frequency Augmentation and Key‑Frequency Mining for Multivariate Time Series </b></h2>
+ReFocus: Reinforcing Mid-Frequency and Key-Frequency Modeling for Multivariate Time Series Forecasting </b></h2>
 </div>
 
 ## Get Started
